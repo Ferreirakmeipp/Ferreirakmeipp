@@ -115,7 +115,7 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 
 `React` · `TypeScript` · `Supabase` · `OpenAI API` · `N8N`
 
-🟢 **Em produção**
+🟡 **Em desenvolvimento**
 
 ---
 
