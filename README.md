@@ -5,9 +5,15 @@
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/anderson-ferreira-oficial/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;&lt;/a&gt;
-  &lt;a href="https://www.instagram.com/ferreira_cdm/"&gt;&lt;img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/&gt;&lt;/a&gt;
-  &lt;a href="https://www.youtube.com/@AndersonFerreira.777"&gt;&lt;img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/&gt;&lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/anderson-ferreira-oficial/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.instagram.com/ferreira_cdm/"&gt;
+    &lt;img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.youtube.com/@AndersonFerreira.777"&gt;
+    &lt;img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
 ---
@@ -40,41 +46,36 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend & Backend**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/&gt;
-&lt;/p&gt;
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Banco de Dados & Backend-as-a-Service**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/&gt;
-&lt;/p&gt;
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **DevOps & Infraestrutura**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/VPS-333?style=flat-square&logo=linux&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/&gt;
-&lt;/p&gt;
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-333?style=flat-square&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Automação & IA**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/N8N-FF6D5A?style=flat-square&logo=n8n&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/&gt;
-&lt;/p&gt;
+
+![N8N](https://img.shields.io/badge/N8N-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Ferramentas**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/&gt;
-  &lt;img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/&gt;
-&lt;/p&gt;
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -159,11 +160,11 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 ## 📊 GitHub Activity
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Ferreirakmeipp&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=Ferreirakmeipp&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreirakmeipp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferreirakmeipp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"&gt;
 &lt;/p&gt;
 
 ---
