@@ -87,11 +87,7 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 ### 🥋 JiuFlow Studio
 **SaaS multi-tenant para gestão de academias de Jiu-Jitsu**
 
-- Gestão de alunos, planos e mensalidades
-- Controle financeiro completo
-- Dashboard com métricas
-- Autenticação e controle de acesso por roles
-- Arquitetura multi-tenant
+[🔗 Ver showcase público](https://github.com/Ferreirakmeipp/jiujitsu-saas-showcase)
 
 `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Docker` · `VPS` · `N8N`
 
