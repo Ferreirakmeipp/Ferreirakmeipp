@@ -98,10 +98,7 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 ### 💰 Bolso+
 **Plataforma de gestão financeira pessoal**
 
-- Controle de receitas e despesas
-- Categorização automática
-- Relatórios e dashboards
-- Integrações com automações
+[🔗 Ver showcase público](https://github.com/Ferreirakmeipp/bolso-plus-showcase)
 
 `React` · `TypeScript` · `Supabase` · `PostgreSQL`
 
