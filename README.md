@@ -135,7 +135,7 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 ## 🎓 Formação Acadêmica
 
 - **Bacharelado em Engenharia de Software** — Uninter (2026–2030)
-  - Nota MEC: 4
+  - Nota MEC: 5
   - Carga horária: ~3.210h | Duração: 48 meses
   - Grade: Programação, Banco de Dados, Arquitetura de Software, Métodos Ágeis, Testes, Segurança, Cloud, IA, Desenvolvimento de Sistemas
 
