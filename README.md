@@ -104,18 +104,6 @@ Atualmente cursando **Bacharelado em Engenharia de Software** na Uninter.
 
 🟢 **Em produção**
 
----
-
-### 🏥 EvoluClinic AI
-**Solução com IA para clínicas e consultórios**
-
-- Automatização de fluxos clínicos
-- Integração com IA para análise e suporte
-- Gestão de pacientes e agendamentos
-
-`React` · `TypeScript` · `Supabase` · `OpenAI API` · `N8N`
-
-🟡 **Em desenvolvimento**
 
 ---
 
